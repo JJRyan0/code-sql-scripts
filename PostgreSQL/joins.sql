@@ -1,6 +1,10 @@
 
 --PostgreSql Queries:
 
+--John R on 11/25/2020 
+
+--Sample DVD rental database
+
 --Left Outer Join
 SELECT film.film_id, title, inventory_id, store_id
 FROM film
